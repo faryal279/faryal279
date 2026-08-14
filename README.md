@@ -92,6 +92,34 @@ BERT-based language model project for next-word prediction and grammar error det
 
 ---
 
+### 🏅 Achievements
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faryal279/faryal279/main/faryal-achievements.svg?v=2" alt="Faryal Idrees achievements" width="100%"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faryal279/faryal279/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faryal279/faryal279/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/faryal279/faryal279/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faryal279&theme=react-dark&hide_border=true&area=true" alt="Activity graph" width="100%"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
