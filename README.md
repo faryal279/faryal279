@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faryal279/faryal279/main/faryal-lanyard.svg?v=2" alt="Faryal Idrees ID card lanyard" width="260"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Faryal Idrees</h1>
 <h3 align="center">Generative AI Engineer | Machine Learning | NLP & LLM Systems</h3>
 
